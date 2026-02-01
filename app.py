@@ -42,7 +42,7 @@ df_filtrado = df[
 ]
 
 # --- Conteúdo Principal ---
-st.title("🎲 Dashboard de Análise de Salários na Área de Dados")
+st.title("Dashboard de Análise de Salários na Área de Dados")
 st.markdown("Explore os dados salariais na área de dados nos últimos anos. Utilize os filtros à esquerda para refinar sua análise.")
 
 # --- Métricas Principais (KPIs) ---
